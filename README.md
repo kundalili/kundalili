@@ -3,8 +3,9 @@
 
 ## Hello there 👋 
 
-## I'm Patricia from Berlin. 
-I'm mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻.
+## I'm Patricia.I'm mother🤱🏻 MERN stack developer 👩🏻‍💻 and yogini 🧘🏻.
+<br>
+🇩🇪 Located in Berlin.
 <br>
 🔭 I’m currently learning Vue.js
 <br>
