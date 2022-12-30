@@ -1,6 +1,7 @@
-### Hello there 👋 
+https://github.com/kundalili/kundalili/blob/main/White%20Minimal%20Business%20Company%20Profile%20LinkedIn%20Banner%20(1).png
+# Hello there 👋 
 
-# I'm Patricia from Berlin. Human Being, Mother🤱🏻, MERN Stack Developer 👩🏻‍💻 and Yogini 🧘🏻
+## I'm Patricia from Berlin. I'm mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻
 <br>
 🔭 I’m currently learning Vue.js
 <br>
