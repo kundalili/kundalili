@@ -3,7 +3,10 @@
 
 ## Hello there 👋 
 
-## I'm Patricia.I'm mother🤱🏻 MERN stack developer 👩🏻‍💻 and yogini 🧘🏻.
+## I'm Patricia. 
+### I'm mother. 🤱🏻 
+### I'm MERN stack developer. 👩🏻‍💻 
+### And I'm also yogini. 🧘🏻
 <br>
 🇩🇪 Located in Berlin.
 <br>
