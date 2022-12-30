@@ -1,8 +1,9 @@
 <img src="/banner_github.png" alt="Banner" title="">
 
 
-## Hello there 👋 I'm Patricia Lilla. 
+## Hello there 👋  I'm Patricia Lilla. 
 
+### She/Her
 ### I'm a mother. 🤱🏻 
 ### I'm a MERN stack developer. 👩🏻‍💻 
 ### ...and I'm also a yogini. 🧘🏻
@@ -11,7 +12,7 @@
 <br>
 🔭 I’m currently learning Vue.js
 <br>
-🌱 2023 Goals: Improve programming skills in {{Typescript}} ...and keep my plants alive
+🌱 2023 Goals: Improve programming skills in {{Typescript}} ...and I want my plants to be happy 
 <br>
 👯 I’m looking to collaborate on open source projects
 <br>
