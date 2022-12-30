@@ -1,6 +1,15 @@
 ## Hello, I'm Patricia 👋 
 
-## I'm a human being, mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻
+## .human being
+<br>
+
+## ..mother🤱🏻
+<br>
+
+## ...MERN stack developer 👩🏻‍💻 
+<br>
+
+## ...yogini 🧘🏻
 <br>
 🔭 I’m currently learning Vue.js
 <br>
