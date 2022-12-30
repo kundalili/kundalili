@@ -1,4 +1,6 @@
 <img src="/banner.png" alt="Banner" title="">
+![Banner](banner.gif)
+
 
 # Hello there 👋 
 
