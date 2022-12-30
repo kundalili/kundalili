@@ -3,7 +3,8 @@
 
 # Hello there 👋 
 
-## I'm Patricia from Berlin. I'm mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻
+## I'm Patricia from Berlin. 
+## I'm mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻.
 <br>
 🔭 I’m currently learning Vue.js
 <br>
