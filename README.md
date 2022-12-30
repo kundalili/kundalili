@@ -10,7 +10,7 @@
 <br>
 🇩🇪 Located in Berlin.
 <br>
-🔭 I’m currently learning Vue.js
+🔭 I’m currently working on [this app](https://myina-app.herokuapp.com/) .
 <br>
 🌱 2023 Goals: Improve programming skills in {{Typescript}} ...and I want my plants to be happy 
 <br>
