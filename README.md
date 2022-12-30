@@ -1,8 +1,7 @@
 <img src="/banner_github.png" alt="Banner" title="">
 
 
-## Hello there 👋 I'm Patricia. 
-
+## Hello there 👋 I'm Patricia Lilla. 
 
 ### I'm a mother. 🤱🏻 
 ### I'm a MERN stack developer. 👩🏻‍💻 
@@ -16,7 +15,7 @@
 <br>
 👯 I’m looking to collaborate on open source projects
 <br>
-☁️ Fun fact: I wanted to be when I grew up: aviator  
+☁️ Fun fact: As a child, I dreamed of becoming an aviator
 <br>
 💥 My passions: podcasts, knitting, learning new languages 
 
