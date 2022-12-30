@@ -1,12 +1,12 @@
 <img src="/banner_github.png" alt="Banner" title="">
 
 
-## Hello there 👋 
+## Hello there 👋 I'm Patricia. 
 
-## I'm Patricia. 
-### I'm mother. 🤱🏻 
-### I'm MERN stack developer. 👩🏻‍💻 
-### And I'm also yogini. 🧘🏻
+
+### I'm a mother. 🤱🏻 
+### I'm a MERN stack developer. 👩🏻‍💻 
+### ...and I'm also a yogini. 🧘🏻
 <br>
 🇩🇪 Located in Berlin.
 <br>
@@ -18,7 +18,7 @@
 <br>
 ✈️ Fun fact: I wanted to be when I grew up: aviator ☁️ 
 <br>
-💥 My addictions: podcasts, knitting, learning new languages
+💥 My passions: podcasts, knitting, learning new languages 
 
 ## 📫 How to reach me:
 
