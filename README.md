@@ -16,7 +16,7 @@
 <br>
 👯 I’m looking to collaborate on open source projects
 <br>
-✈️ Fun fact: I wanted to be when I grew up: aviator ☁️ 
+☁️ Fun fact: I wanted to be when I grew up: aviator  
 <br>
 💥 My passions: podcasts, knitting, learning new languages 
 
