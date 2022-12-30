@@ -1,5 +1,4 @@
-<img src="/banner.png" alt="Banner" title="">
-![Banner](banner.gif)
+<img src="/banner_github.png" alt="Banner" title="">
 
 
 # Hello there 👋 
