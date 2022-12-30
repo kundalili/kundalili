@@ -1,10 +1,10 @@
 <img src="/banner_github.png" alt="Banner" title="">
 
 
-# Hello there 👋 
+## Hello there 👋 
 
 ## I'm Patricia from Berlin. 
-## I'm mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻.
+I'm mother🤱🏻, MERN stack developer 👩🏻‍💻 and yogini 🧘🏻.
 <br>
 🔭 I’m currently learning Vue.js
 <br>
