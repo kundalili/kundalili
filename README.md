@@ -1,10 +1,8 @@
 <img src="/banner_github.png" alt="Banner" title="">
 
 
-## Hello there 👋  I'm Patricia Lilla 
+## Hello there 👋  I'm Patricia Lilla (she/her)
 
-### She/Her
-### I'm a mother. 🤱🏻 
 ### I'm a MERN stack developer. 👩🏻‍💻 
 ### ...and I'm also a yogini. 🧘🏻
 <br>
